@@ -19,6 +19,7 @@ Data Type of SQL:
     a.	Numeric (Integer, 
     b.	Character
     c.	Date and Time
+
 Primary Key:
     1.	Cannot be duplicate value
     2.	Cannot be null value
